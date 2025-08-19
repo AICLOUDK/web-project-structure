@@ -1,0 +1,19 @@
+XML (eXtensible Markup Language)
+XML is a markup language designed to store and transport data in a human-readable format. It uses tags to define elements and hierarchically organize information. XML is widely used for configuration files, data exchange between systems, and storing structured data.
+
+Example XML:
+
+CopyRun
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+  <book>
+    <title>The Great Gatsby</title>
+    <author>F. Scott Fitzgerald</author>
+    <year>1925</year>
+  </book>
+  <book>
+    <title>To Kill a Mockingbird</title>
+    <author>Harper Lee</author>
+    <year>1960</year>
+  </book>
+</library>
