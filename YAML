@@ -1,0 +1,14 @@
+YAML (YAML Ain't Markup Language)
+YAML is a human-friendly data serialization format often used for configuration files. It emphasizes simplicity and readability, using indentation to represent structure instead of brackets or tags.
+
+Example YAML:
+
+CopyRun
+library:
+  books:
+    - title: The Great Gatsby
+      author: F. Scott Fitzgerald
+      year: 1925
+    - title: To Kill a Mockingbird
+      author: Harper Lee
+      year: 1960
